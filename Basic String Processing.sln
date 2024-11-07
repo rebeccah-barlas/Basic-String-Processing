@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Basic String Processing", "Basic String Processing\Basic String Processing.csproj", "{4649D36D-8FDB-4235-9B7D-04F9749CCFBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4649D36D-8FDB-4235-9B7D-04F9749CCFBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4649D36D-8FDB-4235-9B7D-04F9749CCFBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4649D36D-8FDB-4235-9B7D-04F9749CCFBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4649D36D-8FDB-4235-9B7D-04F9749CCFBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76066B40-8C44-41ED-B6FF-210D54C31D14}
+	EndGlobalSection
+EndGlobal

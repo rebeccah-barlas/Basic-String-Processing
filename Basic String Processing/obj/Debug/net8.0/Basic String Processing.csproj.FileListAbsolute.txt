@@ -1,0 +1,14 @@
+C:\Users\barla\source\repos\Basic String Processing\Basic String Processing\bin\Debug\net8.0\Basic String Processing.exe
+C:\Users\barla\source\repos\Basic String Processing\Basic String Processing\bin\Debug\net8.0\Basic String Processing.deps.json
+C:\Users\barla\source\repos\Basic String Processing\Basic String Processing\bin\Debug\net8.0\Basic String Processing.runtimeconfig.json
+C:\Users\barla\source\repos\Basic String Processing\Basic String Processing\bin\Debug\net8.0\Basic String Processing.dll
+C:\Users\barla\source\repos\Basic String Processing\Basic String Processing\bin\Debug\net8.0\Basic String Processing.pdb
+C:\Users\barla\source\repos\Basic String Processing\Basic String Processing\obj\Debug\net8.0\Basic String Processing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barla\source\repos\Basic String Processing\Basic String Processing\obj\Debug\net8.0\Basic String Processing.AssemblyInfoInputs.cache
+C:\Users\barla\source\repos\Basic String Processing\Basic String Processing\obj\Debug\net8.0\Basic String Processing.AssemblyInfo.cs
+C:\Users\barla\source\repos\Basic String Processing\Basic String Processing\obj\Debug\net8.0\Basic String Processing.csproj.CoreCompileInputs.cache
+C:\Users\barla\source\repos\Basic String Processing\Basic String Processing\obj\Debug\net8.0\Basic String Processing.dll
+C:\Users\barla\source\repos\Basic String Processing\Basic String Processing\obj\Debug\net8.0\refint\Basic String Processing.dll
+C:\Users\barla\source\repos\Basic String Processing\Basic String Processing\obj\Debug\net8.0\Basic String Processing.pdb
+C:\Users\barla\source\repos\Basic String Processing\Basic String Processing\obj\Debug\net8.0\Basic String Processing.genruntimeconfig.cache
+C:\Users\barla\source\repos\Basic String Processing\Basic String Processing\obj\Debug\net8.0\ref\Basic String Processing.dll
